@@ -29,3 +29,6 @@ Known languages:
 <img alt="Python" src="https://github.com/BrunoCostaPrado/devicon/blob/master/icons/python/python-original.svg"  width="60" height="60"/>
 <img alt="Bash" src="https://github.com/BrunoCostaPrado/devicon/blob/master/icons/bash/bash-original.svg"  width="60" height="60"/>
 <img alt="C++" src="https://github.com/BrunoCostaPrado/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"  width="60" height="60"/>
+
+Basic knowledge of Debian-based Linux Distros:
+<img alt="Linux" src="https://github.com/BrunoCostaPrado/devicon/blob/master/icons/linux/linux-original.svg" width="60" height="60"  /> 
