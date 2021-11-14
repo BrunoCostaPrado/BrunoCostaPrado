@@ -20,4 +20,12 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCostaPrado)](https://github.com/BrunoCostaPrado/BrunoCostaPrado)
 
 
-Known languages:https://github.com/BrunoCostaPrado/devicon/blob/master/icons/java/java-original.svg  https://github.com/BrunoCostaPrado/devicon/blob/master/icons/javascript/javascript-original.svg https://github.com/BrunoCostaPrado/devicon/blob/master/icons/html5/html5-original.svg https://github.com/BrunoCostaPrado/devicon/blob/master/icons/css3/css3-original.svg
+Known languages:
+<img alt="CSS" src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" width="60" height="60"  /> 
+<img alt="HTML" src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" width="60" height="60" />
+<img alt="JS" src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg"  width="60" height="60"/>
+<img alt="Java" src="https://github.com/BrunoCostaPrado/devicon/blob/master/icons/java/java-original.svg"  width="60" height="60"/>
+<img alt="Docker" src="https://github.com/BrunoCostaPrado/devicon/blob/master/icons/docker/docker-original.svg"  width="60" height="60"/>
+<img alt="Python" src="https://github.com/BrunoCostaPrado/devicon/blob/master/icons/python/python-original.svg"  width="60" height="60"/>
+<img alt="Bash" src="https://github.com/BrunoCostaPrado/devicon/blob/master/icons/bash/bash-original.svg"  width="60" height="60"/>
+<img alt="C++" src="https://github.com/BrunoCostaPrado/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"  width="60" height="60"/>
