@@ -30,5 +30,9 @@ Known languages:
 <img alt="Bash" src="https://github.com/BrunoCostaPrado/devicon/blob/master/icons/bash/bash-original.svg"  width="60" height="60"/>
 <img alt="C++" src="https://github.com/BrunoCostaPrado/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"  width="60" height="60"/>
 
+IDEs:
+<img alt="Vscode" src="https://github.com/BrunoCostaPrado/devicon/blob/master/icons/vscode/vscode-original.svg"  width="60" height="60"/>
+<img alt="Eclipse" src="https://github.com/BrunoCostaPrado/devicon/blob/master/icons/eclipse/eclipse.svg"  width="60" height="60"/>
+
 Basic knowledge of Debian-based Linux Distros:
 <img alt="Linux" src="https://github.com/BrunoCostaPrado/devicon/blob/master/icons/linux/linux-original.svg" width="60" height="60"  /> 
