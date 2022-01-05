@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 
 Known languages:
 <img alt="CSS" src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" width="60" height="60"> 
-<img alt="HTML" src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" width="60" height="60>
-
+<img alt="HTML" src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" width="60" height="60"> 
 <img alt="JS" src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg"  width="60" height="60">
 <img alt="Java" src="https://github.com/BrunoCostaPrado/devicon/blob/master/icons/java/java-original.svg"  width="60" height="60">
 <img alt="Docker" src="https://github.com/BrunoCostaPrado/devicon/blob/master/icons/docker/docker-original.svg"  width="60" height="60">
