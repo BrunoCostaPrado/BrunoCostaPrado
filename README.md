@@ -25,8 +25,9 @@ Known languages:
 <img alt="HTML" src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" width="60" height="60">
 <img alt="CSS" src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" width="60" height="60">
 <img alt="JS" src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg"  width="60" height="60">
-<img alt="Java" src="https://github.com/BrunoCostaPrado/devicon/blob/master/icons/java/java-original.svg"  width="60" height="60">
+<img alt="Typescript" src="https://github.com/BrunoCostaPrado/devicon/blob/master/icons/typescript/typescript-original.svg"  width="60" height="60">
 <img alt="SASS" src="https://github.com/BrunoCostaPrado/devicon/blob/master/icons/sass/sass-original.svg"  width="60" height="60">
+<img alt="Java" src="https://github.com/BrunoCostaPrado/devicon/blob/master/icons/java/java-original.svg"  width="60" height="60">
 <img alt="Python" src="https://github.com/BrunoCostaPrado/devicon/blob/master/icons/python/python-original.svg"  width="60" height="60">
 <img alt="Rust" src="https://github.com/BrunoCostaPrado/devicon/blob/master/icons/rust/rust-plain.svg"  width="60" height="60">
 
