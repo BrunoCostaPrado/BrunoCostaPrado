@@ -29,7 +29,7 @@ Known languages:
 <img alt="SASS" src="https://github.com/BrunoCostaPrado/devicon/blob/master/icons/sass/sass-original.svg"  width="60" height="60">
 <img alt="Java" src="https://github.com/BrunoCostaPrado/devicon/blob/master/icons/java/java-original.svg"  width="60" height="60">
 <img alt="Python" src="https://github.com/BrunoCostaPrado/devicon/blob/master/icons/python/python-original.svg"  width="60" height="60">
-<img alt="Rust" src="https://github.com/BrunoCostaPrado/devicon/blob/master/icons/rust/rust-plain.svg"  width="60" height="60">
+<img alt="Rust" src="https://raw.githubusercontent.com/BrunoCostaPrado/devicon/master/icons/rust/rust-plain.svg"  width="60" height="60">
 
 IDEs:
 <img alt="Vscode" src="https://github.com/BrunoCostaPrado/devicon/blob/master/icons/vscode/vscode-original.svg"  width="60" height="60">
